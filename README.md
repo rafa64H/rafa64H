@@ -1,7 +1,7 @@
 ### Hi there, anyone who is seeing my profile.
 
 I'm learning frontend web development, currently I know React, Typescript and tailwind,
-in the future I'll learn NEXTJS.
+in the future I'll learn NEXTJS, currently learning Nodejs/expresss.
 
 I started learning frontend when I knew about freeCodeCamp and liked programming, I made
 some small projects and made other bigger ones (firstly frontend mentor pages, later 
