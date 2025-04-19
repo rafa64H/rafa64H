@@ -5,6 +5,6 @@ My journey started when I discovered freeCodeCamp and quickly developed a passio
 
 Currently, I'm working on two projects:
 
-    Yabook – a social media platform
+- Yabook – a social media platform
 
-    Art Museum – a space for artists to share and showcase their work
+- Art Museum – a space for artists to share and showcase their work
