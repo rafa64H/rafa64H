@@ -1,5 +1,10 @@
 ### Hi there, anyone who is seeing my profile.
+I'm a Full Stack Developer with knowledge of React, TypeScript, Tailwind CSS, and Express.js
 
-I am a Jr. Frontend developer, currently I have knowledge of React, Typescript and tailwind and Nodejs/express
+My journey started when I discovered freeCodeCamp and quickly developed a passion for programming. I began by building small projects and gradually developed more complex applications. Early on, I recreated Frontend Mentor designs, and later I built a replica of the classic Duck Hunt game and developed a mock e-commerce site based on a Figma community design.
 
-I started learning frontend when I knew about freeCodeCamp, I started liking programming so I made some small projects and made other bigger ones (firstly frontend mentor pages, later I replicated the duck-hunt game and made the crisp-ecommerce page from a figma design, my projects in process today are the social media of yabook and art-museum which is a webpage to post art).
+Currently, I'm working on two projects:
+
+    Yabook – a social media platform
+
+    Art Museum – a space for artists to share and showcase their work
